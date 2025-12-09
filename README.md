@@ -43,7 +43,7 @@ O foco do projeto é transformar dados brutos em insights úteis, passando por e
 
 # Insights Identificados
 
- - 4 cidades aparecem simultaneamente entre as que mais enviam e mais recebem remessas.
+ - 4 cidades aparecem simultaneamente entre as que mais enviam e mais recebem remessas (Patna, Mumbai, Vijayawada e Pune).
 
  - Cartão é o método de pagamento mais comum.
 
